@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(15, 15, 15);
+    color: white;
+}
+
+div{
+    text-align: center;
+}
+
+a:link, a:hover, a:active{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: gray;
+    text-decoration: underline;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+}
